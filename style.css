@@ -1,0 +1,48 @@
+body {
+  font-family: Calibri;
+  font-size: 25px;
+  background-color: rgb(184, 182, 180);
+}
+
+.nav-toggle {
+  visibility: hidden;    
+  margin-top: -0.25em;
+  list-style: none;
+  padding: 0em;
+}
+
+.toggle-red {
+  color: #fc0606;
+  background-color: #573333;
+  width: 7em;
+  padding: 1em;
+}
+
+.toggle-green {
+  color: #14ee14;
+  background-color: #3c583e;
+  width: 7em;
+  padding: 1em;
+}
+
+.toggle-blue {
+  color: #000fe6;
+  background-color: #403468 ;
+  width: 7em;
+  padding: 1em;
+}
+
+.toggle-yellow {
+  color: #ffe600;
+  background-color: #696632;
+  width: 7em;
+  padding: 1em;
+}
+
+.toggle-orange {
+  color: #f35d07;
+  background-color:#6b4729;
+  width: 7em;
+  padding: 1em;
+}
+
